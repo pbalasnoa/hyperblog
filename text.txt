@@ -2,4 +2,6 @@ Primer parrafo para realizar el commit
 
 este es un segundo cambio al archivo, modifico esta linea en el tercer commit
 
-y agrego un parrafo más
+y agrego un parrafo
+
+esto es para hacer reset
