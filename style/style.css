@@ -2,10 +2,10 @@ body{
   margin: 0;
   padding: 0;
   background-color: bisque;
+  font-family: monospace;
 }
 
 h1{
-  font-family: monospace;
   color: firebrick;
 }
 
@@ -14,4 +14,15 @@ h1{
   justify-content: center;
   margin-top: 50px;
   align-items: center;
+}
+
+.cabecera{
+  display: flex;
+  justify-content: center;
+  background-color: teal;
+}
+
+.cabecera-parrafo{
+  color: whitesmoke;
+  font-size: 1.5em;
 }
